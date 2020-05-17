@@ -1,0 +1,26 @@
+Start audience measurement form: https://docs.google.com/forms/d/e/1FAIpQLSfyX9W3VE8F8V8fxwle6ki71RXDZcPEhOtpGp28SU2j0E3jUg/viewform?usp=sf_link
+
+short link: w2b.kz/amp052020
+
+responses: https://docs.google.com/forms/d/1vegN0XBGsMzFD8-totrU0OQMZHYeb5jZEvz-ciVITVw/edit#responses
+
+
+=========
+
+PageSpeed Insights:
+Test-1:
+https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.geotab.com%2Ffleet-management-software%2F&tab=mobile
+vs https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.verizonconnect.com%2F&tab=mobile
+
+
+Test-2:
+https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.verizonconnect.com%2Fie%2Fresources%2Farticle%2Fhow-to-reduce-fleet-fuel-costs%2F&tab=desktop
+vs https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fblog.fossnational.com%2Freduce-fuel-costs&tab=desktop
+but https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fblog.fossnational.com%2Freduce-fuel-costs
+
+
+Form after: 
+https://docs.google.com/forms/d/e/1FAIpQLSck0WojjXv1ksd2Sifz0oAOq-nFc3BYEH76BJnz6WOKLMgJsA/viewform?usp=sf_link
+
+responses: 
+https://docs.google.com/forms/d/1selebM9-IjmKD8EPspts_Xq_ItTBVlQ_rs9U60zmTOY/edit#responses

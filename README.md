@@ -23,11 +23,11 @@
 
    Google search traffic
 
-   Mobile devices trands
+   Mobile devices trends
 
    Google SEO & AdWords definitions
    
-   Web pages front-end technical optimisation
+   Web pages front-end technical optimization
 
    Web pages quality and usability impact
 
@@ -36,16 +36,12 @@
 
 2. Build
 
-   AMP (Accelerated Mobile Pages) HTML framework intro 
+   AMP (Accelerated Mobile Pages) HTML framework introduction
 
-   Web page refactoring with AMP
-
-   Knowledge sources artifacts and references
+   Knowledge source and references
 
 
 3. Measure
-
-   Resulted web page quality measurement
 
    Presentation usefulness for audience
 
